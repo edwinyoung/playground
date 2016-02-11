@@ -53,3 +53,4 @@ Hello 340!
 Hey!
 
 Hi! I am a student in CSC 340!
+hi
