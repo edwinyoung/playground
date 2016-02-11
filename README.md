@@ -46,3 +46,4 @@ They dont want you to code!
 void meaningOfLife() {
   return 42;
 }
+Hello from RS
