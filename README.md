@@ -43,3 +43,6 @@ I was here. :P
 #hello
 //hello everyone!!
 They dont want you to code! 
+void meaningOfLife() {
+  return 42;
+}
